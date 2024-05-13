@@ -1,0 +1,320 @@
+,Unnamed: 0,Énergie,Gras,Gras Saturés,Glucides,Sucre,Fibre,Protéine,Sel,Catégorie
+0,Frites (Moyenne),328 kcal,"16,00g","1,500g","41,00g","0,30g","4,0g","3,90g","1,38g",Accompagnement
+1,Frites (Grande),434 kcal,"21,00g","2,000g","54,00g","0,50g","5,3g","5,10g","1,80g",Accompagnement
+2,Nuggets (4),174 kcal,"9,00g","1,000g","13,00g","0,30g","0,6g","10,00g","0,70g",Plat
+3,Deluxe Potatoes (Moyenne),227 kcal,"12,00g","1,100g","26,00g","0,00g","3,3g","2,80g","0,70g",Accompagnement
+4,Cheeseburger,300 kcal,"13,00g","5,600g","30,00g","7,40g","2,1g","16,00g","1,50g",Plat
+5,Big Mac,530 kcal,"27,00g","9,600g","42,00g","7,80g","3,1g","27,00g","2,30g",Plat
+6,Nuggets (6),262 kcal,"13,00g","1,500g","19,00g","0,40g","1,0g","15,00g","1,10g",Plat
+7,Frites (Petite),231 kcal,"11,00g","1,000g","29,00g","0,20g","2,8g","2,70g","0,38g",Accompagnement
+8,Sauce Creamy Deluxe,79 kcal,"8,20g","1,000g","0,80g","0,30g","0,1g","0,20g","0,30g",Sauce
+9,Croque McDo,258 kcal,"9,90g","5,700g","27,00g","5,20g","2,0g","14,00g","0,00g",Plat
+10,P'tit Wrap Ranch ,315 kcal,"15,00g","3,000g","31,00g","3,00g","1,6g","12,00g","1,10g",Plat
+11,Nuggets (9),392 kcal,"20,00g","2,200g","29,00g","0,60g","1,3g","23,00g","4,75g",Plat
+12,Le CBO,653 kcal,"34,00g","7,600g","59,00g","7,00g","3,4g","26,00g","3,00g",Plat
+13,Double Cheeseburger,451 kcal,"23,00g","11,000g","33,00g","6,80g","2,1g","27,00g","2,60g",Plat
+14,Deluxe Potatoes (Grande),330 kcal,"17,00g","1,600g","37,00g","0,50g","4,8g","4,00g","1,00g",Accompagnement
+15,Big Tasty,663 kcal,"41,00g","17,000g","35,00g","8,50g","2,9g","37,00g","3,70g",Plat
+16,Lipton Ice Tea,65 kcal,"0,00g",-,"16,00g",-,,"0,00g",-,Boisson
+17,Hamburger,261 kcal,"8,70g","3,300g","31,00g","5,80g","2,1g","13,00g","1,30g",Plat
+18,Sauce Barbecue,40 kcal,"0,00g",-,"10,00g",-,,"0,00g","1,75g",Sauce
+19,Petit Wrap ,320 kcal,"16,00g","3,000g","29,00g",-,"2,0g","14,00g",-,Plat
+20,Wrap Poulet Bacon ,566 kcal,"28,00g","5,700g","54,00g","5,40g","4,0g","23,00g","2,80g",Plat
+21,Royal Deluxe,534 kcal,"31,00g","11,000g","35,00g","7,20g","2,0g","29,00g","2,20g",Plat
+22,Ketchup,13 kcal,"0,00g","0,000g","2,90g","2,90g","0,2g","0,20g","0,50g",Sauce
+23,Filet-O-Fish,327 kcal,"13,00g","2,300g","38,00g","4,20g","2,0g","14,00g","1,60g",Plat
+24,Mac Chicken,444 kcal,"19,00g","2,100g","45,00g","5,30g","4,0g","20,00g","2,00g",Plat
+25,McFlurry M&M's Caramel,355 kcal,"14,00g",-,"50,00g",-,"1,0g","7,00g","0,00g",Dessert
+26,McFirst Poulet Ranch,467 kcal,"18,00g","4,200g","51,00g","10,00g","4,4g","23,00g","2,60g",Plat
+27,McFirst Bœuf ,455 kcal,"22,00g","8,800g","39,00g","9,00g","2,2g","24,00g","4,50g",Plat
+28,Coca-Cola (Grande),210 kcal,"0,00g","0,000g","53,00g","53,00g","0,0g","0,00g","0,00g",Boisson
+29,Coca-Cola Zero (Moyenne),0 kcal,"0,00g",-,"0,00g",-,,"0,00g","0,25g",Boisson
+30,La Pommes-Frites-Sauce,27 kcal,"2,20g","0,100g","1,70g","1,10g","0,1g","0,10g","0,30g",Sauce
+31,Brownie Chocolat Noisette,372 kcal,"22,00g","10,000g","38,00g","13,00g","1,0g","5,00g","1,25g",Dessert
+32,Sundae Caramel,325 kcal,"9,00g","5,000g","54,00g","44,00g","1,0g","7,00g","0,75g",Dessert
+33,Royal Cheese ,518 kcal,"26,00g","13,000g","38,00g","9,10g","2,9g","31,00g","2,90g",Plat
+34,Coca-Cola (Moyen),170 kcal,"0,00g",-,"42,00g",-,,"0,00g",-,Boisson
+35,McChicken,439 kcal,"19,00g","2,100g","45,00g","5,30g","4,0g","20,00g","2,00g",Plat
+36,Sauce Potatoes,79 kcal,"9,10g",-,"1,10g",-,,"0,60g",-,Sauce
+37,Sauce Curry,45 kcal,"0,10g","0,100g","10,00g","9,40g","0,0g","0,00g","0,75g",Sauce
+38,Sauce Chinoise,51 kcal,"0,30g","0,000g","12,00g","9,80g","0,0g","0,10g","0,32g",Sauce
+39,McMuffin Egg & Cheese,263 kcal,"10,00g","4,200g","27,00g","2,10g","1,9g","16,00g","1,10g",Plat
+40,Wrap Chèvre,536 kcal,"26,00g","8,000g","59,00g","4,00g","3,0g","15,00g","2,00g",Plat
+41,Salade Chicken Caesar,423 kcal,"21,00g","7,000g","32,00g","5,00g","3,0g","25,00g","0,01g",Plat
+42,P'tit Wrap Chèvre,301 kcal,"14,00g","4,400g","34,00g","3,00g","2,4g","9,00g","0,91g",Plat
+43,Double Cheeseburger Bacon,465 kcal,"24,00g","11,000g","33,00g","6,80g","2,2g","28,00g","2,70g",Plat
+44,McFlurry Daim,327 kcal,"13,00g","6,200g","47,00g","44,00g","0,3g","5,80g",-,Dessert
+45,Bacon & Egg McMuffin,277 kcal,"11,00g","4,600g","27,00g","2,10g","1,9g","17,00g","0,00g",Plat
+46,Wavy Fries,338 kcal,"19,00g","2,300g","36,00g","1,50g","2,7g","3,30g","0,82g",Accompagnement
+47,Nuggets (20),872 kcal,"45,00g","5,000g","65,00g","1,40g","2,8g","51,00g","3,80g",Plat
+48,Royal Bacon,498 kcal,"25,00g","12,000g","34,00g","8,00g","2,2g","32,00g","4,50g",Plat
+49,Sauce Moutarde,60 kcal,"3,00g",-,"7,00g",-,,"1,00g",-,Sauce
+50,Big Tasty Bacon ,810 kcal,"48,00g","18,000g","49,00g","9,80g","3,4g","44,00g","3,30g",Plat
+51,Macaron Framboise ,85 kcal,"2,80g","0,200g","13,00g","8,40g","0,8g","1,60g","0,00g",Dessert
+52,McFlurry Kit Kat Ball,315 kcal,"10,00g","7,000g","49,00g","42,00g",,"7,00g",-,Dessert
+53,McFlurry M&M's,340 kcal,"12,00g",-,"49,00g",-,"1,0g","8,00g","0,00g",Dessert
+54,Sundae Chocolat,330 kcal,"13,00g",-,"49,00g",-,"1,0g","7,00g","0,75g",Dessert
+55,McCrispy,495 kcal,"19,00g","2,300g","56,00g","7,00g","2,0g","24,00g","2,30g",Plat
+56,Double Filet-O-Fish,469 kcal,"20,00g","4,000g","47,00g","4,50g","2,4g","24,00g","2,40g",Plat
+57,McFirst Poisson,406 kcal,"17,00g","5,900g","44,00g","8,30g","2,6g","18,00g","0,00g",Plat
+58,Coca-Cola (Petit),110 kcal,"0,00g",-,"28,00g",-,,"0,00g",-,Boisson
+59,Chicken McNuggets (4),175 kcal,"9,00g","1,000g","12,00g",-,"1,0g","11,00g","0,00g",Plat
+60,P'tite Pomme,41 kcal,"0,10g","0,000g","9,00g","9,00g","1,6g","0,20g","0,20g",Dessert
+61,Burger Bacon & Cheddar Fondu ,641 kcal,"37,00g","15,000g","44,00g","10,00g","2,0g","32,00g","0,01g",Plat
+62,Wrap Poulet Bacon New York ,566 kcal,"28,00g","5,700g","54,00g","5,40g","3,4g","23,00g","2,80g",Plat
+63,Deluxe Potatoes (Grande),194 kcal,"8,80g","0,900g","25,00g","0,30g","2,8g","3,50g","1,10g",Accompagnement
+64,Fanta Orange (Moyenne),155 kcal,"0,00g","0,000g","38,00g","38,00g","0,0g","0,00g","0,00g",Boisson
+65,Double Royal Cheese,758 kcal,"44,00g","21,000g","37,00g","10,00g","3,0g","52,00g","3,10g",Plat
+66,Trio Mini Viennoiseries,257 kcal,"13,00g",-,"30,00g",-,,"5,00g",-,Dessert
+67,Donuts,281 kcal,"15,00g","8,200g","33,00g","17,00g","1,2g","2,70g","0,00g",Dessert
+68,Chicken McNuggets (9),395 kcal,"20,00g",-,"25,00g",-,,"25,00g","0,05g",Plat
+69,Chicken McNuggets (6),270 kcal,"14,00g","3,500g","19,00g",-,,"17,00g",-,Plat
+70,Muffin Chocolat,340 kcal,"18,00g","4,000g","39,00g","23,00g","2,0g","5,00g","2,50g",Dessert
+71,Petite Salade,75 kcal,"6,00g","1,000g","4,00g","2,00g","1,0g","1,00g","1,75g",Accompagnement
+72,Wrap Poulet et Crudités,544 kcal,"26,00g","4,000g","53,00g","4,00g","3,0g","23,00g","0,00g",Plat
+73,Mayonnaise,27 kcal,"2,20g","0,100g","1,70g","1,10g","0,1g","0,10g","0,30g",Sauce
+74,Big Mac Bacon,546 kcal,"28,00g","11,000g","42,00g","8,50g","3,1g","29,00g","2,50g",Plat
+75,Double Cheese,451 kcal,"23,00g","11,000g","33,00g","6,80g","2,1g","27,00g","2,60g",Plat
+76,McFlurry Kit Kat,283 kcal,"8,70g","5,800g","44,00g","38,00g","0,8g","6,70g","0,00g",Dessert
+77,Cookie Chocolat Noisette,366 kcal,"18,00g","9,000g","45,00g","25,00g","2,0g","5,00g","0,50g",Dessert
+78,Sundae Nature,210 kcal,"7,00g","5,000g","31,00g","27,00g",,"6,00g","0,20g",Dessert
+79,Ptit Bœuf Sauce Deluxe,337 kcal,"17,00g","6,500g","29,00g","5,10g","1,8g","16,00g","1,50g",Plat
+80,Chocolat Chaud,160 kcal,"4,40g","2,700g","22,00g","20,00g","1,9g","7,60g","0,20g",Dessert
+81,Wrap Poulet Bacon (258g),566 kcal,"28,00g","5,700g","54,00g","5,40g","2,4g","23,00g","2,80g",Plat
+82,McFish,283 kcal,"7,40g","0,900g","39,00g","7,90g","2,3g","14,00g",-,Plat
+83,Chicken Avocado,672 kcal,"33,00g","8,763g","63,00g","6,80g","3,5g","29,00g","3,70g",Plat
+84,Cookie Fourré Choconuts,382 kcal,"18,00g","5,000g","49,00g","30,00g","2,0g","5,00g",-,Dessert
+85,McWrap Poulet Bacon,566 kcal,"28,00g","5,700g","54,00g","5,40g","2,4g","23,00g","2,80g",Plat
+86,Cappuccino Daim,105 kcal,"6,00g",-,"9,00g",-,,"4,00g","0,00g",Dessert
+87,Cookie Caramel et Noix de Pécan,364 kcal,"16,00g","4,000g","49,00g","27,00g","2,0g","5,00g","2,00g",Dessert
+88,Ananas,36 kcal,"0,20g","0,000g","7,70g","7,70g","1,2g","0,40g","0,00g",Dessert
+89,Big Tasty Chicken,797 kcal,"44,00g","12,000g","65,00g","11,00g","4,2g","33,00g","11,25g",Plat
+90,Donut Nature ,287 kcal,"17,00g","8,000g","29,00g","10,00g","1,0g","4,00g","1,55g",Dessert
+91,280 Original,785 kcal,"41,00g","18,000g","57,00g","6,10g","4,3g","45,00g","3,90g",Plat
+92,La Caesar Salade Poulet Croustillant,409 kcal,"20,00g","7,300g","28,00g","1,40g","2,5g","28,00g","1,70g",Plat
+93,McWrap Chèvre,550 kcal,"26,00g",-,"59,00g",-,"4,0g","15,00g","0,00g",Plat
+94,Muffin Chocolat Noisette,595 kcal,"33,00g","5,700g","64,00g","42,00g","3,8g","8,10g","2,75g",Dessert
+95,Café Viennois ,150 kcal,"13,00g",-,"7,00g",-,,"1,00g",-,Dessert
+96,Grand Big Mac,841 kcal,"43,00g",-,"61,00g",-,"4,0g","50,00g","8,50g",Plat
+97,Signature 1 Viande,699 kcal,"37,00g","3,000g","50,00g","8,00g",,"40,00g",-,Plat
+98,Cappuccino,66 kcal,"2,00g","1,000g","8,00g","8,00g","0,0g","4,00g","0,00g",Dessert
+99,Vinaigrette à L’Huile de Noisette,166 kcal,"18,00g","1,000g","1,00g","1,00g","0,0g","0,00g","0,60g",Sauce
+100,La P'tite Salade + Sauce,75 kcal,"6,00g","1,000g","4,00g","2,00g","1,0g","1,00g","1,75g",Sauce
+101,Yaourt à Boire,65 kcal,"2,00g",-,"10,00g",-,,"3,00g",-,Dessert
+102,Macaron Pistache,90 kcal,"4,00g",-,"11,00g","8,00g",,"2,00g",-,Dessert
+103,P'tit Kiwi,33 kcal,"0,30g","0,000g","5,90g","5,90g","1,9g","0,70g",-,Dessert
+104,Ptit Ananas,41 kcal,"0,20g","0,000g","8,30g","8,30g","1,6g","0,50g","0,01g",Dessert
+105,McFlurry Nature,201 kcal,"5,00g","4,000g","34,00g","31,00g",,"5,00g","0,00g",Dessert
+106,Salade Italian Mozzarella,171 kcal,"7,50g","3,300g","20,10g","2,90g","1,1g","6,20g","3,00g",Plat
+107,Beef BBQ Burger 2 Viandes,897 kcal,"49,00g","23,000g","51,00g","13,00g","4,0g","61,00g","0,01g",Plat
+108,Macaron Vanille,95 kcal,"5,00g",-,"10,00g",-,,"2,00g",-,Dessert
+109,Sauce Pommes-Frites,189 kcal,"15,00g","1,000g","11,80g","7,80g",,"0,50g","2,00g",Sauce
+110,Salade Classic Caesar ,409 kcal,"20,00g","7,300g","28,00g","1,40g","2,5g","28,00g","1,40g",Plat
+111,Twister Fries,215 kcal,"11,00g","1,000g","25,00g","2,00g","2,0g","3,00g","4,00g",Accompagnement
+112,Donut Saveur Chocolat,362 kcal,"24,00g","11,000g","32,00g","15,00g","1,0g","4,00g","1,50g",Dessert
+113,Triple Cheese,594 kcal,"33,00g","16,000g","35,00g","7,30g","2,1g","38,00g","3,30g",Plat
+114,Chicken Big Tasty Bacon,844 kcal,"48,00g","14,000g","66,00g","11,00g","4,3g","34,00g","0,01g",Plat
+115,Apple Pie,353 kcal,"13,00g","6,000g","54,00g","30,00g","2,0g","4,00g","0,75g",Dessert
+116,Beef BBQ Burger 1 Viande,656 kcal,"32,00g","16,000g","50,00g","13,00g",,"40,00g","6,25g",Plat
+117,Onion Rings (6),190 kcal,"8,40g",-,"29,30g",-,,"3,20g","2,10g",Accompagnement
+118,Salade Chèvre Croustillant,451 kcal,"21,00g",-,"50,00g",-,,"13,00g","0,00g",Plat
+119,Salade César ,152 kcal,"8,00g",-,"2,20g",-,"1,9g","19,00g","3,00g",Plat
+120,McFirst Poisson Ranch,460 kcal,"22,00g","7,000g","43,00g","7,00g","3,0g","21,00g","5,25g",Plat
+121,McFlurry Oreo,251 kcal,"7,00g","4,000g","41,00g","34,00g","0,0g","6,00g","0,75g",Dessert
+122,Big Hot Dog,685 kcal,"37,00g","13,000g","60,00g","17,00g","4,0g","26,00g","9,50g",Plat
+123,Mcflavor Fries Bacon + Cheese ,265 kcal,"14,00g","3,300g","28,00g","0,30g","2,7g","5,40g","1,00g",Accompagnement
+124,Pancake Nature (2),150 kcal,"4,00g","3,000g","24,00g",-,"1,0g","4,00g",-,Dessert
+125,Mon Bio à Boire,65 kcal,"1,70g","1,100g","9,30g","9,30g",,"3,00g",-,Dessert
+126,La P’tite Salade,15 kcal,"0,00g",-,"2,00g",-,,"1,00g",-,Accompagnement
+127,Fanta Orange (Petite),95 kcal,"0,00g","0,000g","24,00g","24,00g","0,0g","0,00g","0,00g",Boisson
+128,Sauce Big Mac,61 kcal,"5,00g","0,000g","4,00g","3,00g",,"0,00g","0,20g",Sauce
+129,Sauce César,70 kcal,"2,40g","1,200g","9,60g","5,30g",,"2,40g","3,25g",Sauce
+130,Salade Pâtes Mozzarella ,510 kcal,"16,50g",-,"46,00g",-,,"22,00g","4,40g",Plat
+131,P'tite Orange,30 kcal,"0,00g","0,000g","5,00g","5,00g","1,0g","1,00g","0,25g",Dessert
+132,Salade César ,423 kcal,"21,00g","7,000g","32,00g","5,00g","7,0g","25,00g","0,01g",Plat
+133,Frappé Vanille,180 kcal,"3,00g","3,000g","33,00g","29,00g","0,0g","5,00g","0,00g",Dessert
+134,Big Mac Chicken,548 kcal,"22,00g","4,800g","60,00g","9,00g","3,1g","26,00g","3,00g",Plat
+135,Compote ,47 kcal,"0,50g","0,100g","11,00g","10,00g","1,2g","0,50g","0,00g",Dessert
+136,Cookie Chocolat Blanc Framboise,355 kcal,"18,00g",-,"45,00g",-,,"3,00g","1,50g",Dessert
+137,P’Tit Wrap Veggie,280 kcal,"12,00g","3,000g","35,00g","3,00g","2,0g","7,00g","2,25g",Plat
+138,Double Latte,60 kcal,"2,00g","1,000g","6,00g","3,00g","0,0g","4,00g","0,00g",Dessert
+139,McWrap Poulet Croustillant & Bacon,608 kcal,"31,00g","7,000g","53,00g","5,00g","3,0g","27,00g","4,75g",Plat
+140,Sprite (Moyen),145 kcal,"0,00g","0,000g","36,00g","36,00g","0,0g","0,00g","0,00g",Boisson
+141,Minute Maid Orange (Moyen),140 kcal,"0,00g","0,000g","33,00g","32,00g","0,0g","2,00g","0,00g",Boisson
+142,P’Tit Glacé Saveur Vanille ,68 kcal,"1,80g","1,200g","11,00g","9,00g","0,0g","1,80g","0,00g",Dessert
+143,Fruits à Croquer,45 kcal,"0,00g","0,000g","10,00g","10,00g","1,0g","0,00g","0,00g",Dessert
+144,Muffin aux Myrtilles,480 kcal,"22,00g","11,000g","63,00g","35,00g","1,0g","6,10g","2,75g",Dessert
+145,Sauce à la Moutarde,38 kcal,"3,60g",-,"12,80g",-,,"2,00g","5,00g",Sauce
+146,Jus d'orange,95 kcal,"0,00g",-,"22,00g",-,,"1,00g","0,00g",Boisson
+147,McFirst Boeuf Ranch Moutarde,431 kcal,"21,00g","9,000g","33,00g","7,00g","3,0g","26,00g",-,Plat
+148,Le P'tit Muffin aux Pépites de Chocolat,371 kcal,"19,00g","4,000g","45,00g","27,00g","2,0g","4,00g","1,00g",Dessert
+149,Vinaigrette à L'Huile de Noisette (25g),166 kcal,"18,00g","1,000g","1,00g","1,00g","0,0g","0,00g","0,60g",Sauce
+150,Berling'o Fruits 100% Fruits Pomme Acerola,58 kcal,"0,10g","0,000g","13,50g","13,00g","1,1g","0,30g","0,00g",Dessert
+151,Grand Double Cheese ,662 kcal,"35,00g","18,000g","50,00g","11,00g","3,2g","41,00g","0,01g",Plat
+152,Chicken BBQ,535 kcal,"19,00g","9,000g","51,00g","13,00g","4,0g","38,00g","0,01g",Plat
+153,Wrap Poulet Poivre ,646 kcal,"34,00g",-,"54,00g",-,,"29,00g","0,01g",Plat
+154,Blue Cheese & Bacon 1 Viande ,699 kcal,"37,00g","16,000g","50,00g","8,00g","3,0g","40,00g","8,50g",Plat
+155,Nectar Bio,32 kcal,"0,10g",-,"7,40g","7,10g","0,2g","0,20g","0,25g",Boisson
+156,McChicken Veggie,399 kcal,"15,00g","2,200g","45,00g","7,30g","6,4g","17,00g","5,00g",Plat
+157,Grilled Cheese & Bacon,558 kcal,"36,00g","16,000g","23,00g","6,00g","1,0g","35,00g","6,00g",Plat
+158,Muffin Oreo ,301 kcal,"11,00g","2,000g","46,00g","28,00g","1,0g","4,00g","1,50g",Dessert
+159,Sauce New York Caesar,113 kcal,"12,00g","1,600g","0,60g","0,00g","0,1g","1,20g","0,00g",Sauce
+160,Caesar Salad au Poulet Grillé (avec Sauce Caesar) ,285 kcal,"9,00g","5,000g","23,00g",-,"4,0g","28,00g","0,58g",Plat
+161,Petites Tomates,20 kcal,"0,50g","0,000g","3,00g","1,80g","0,8g","0,50g","0,05g",Accompagnement
+162,Triple Cheese Bacon ,608 kcal,"34,00g","17,000g","35,00g","7,30g","2,2g","39,00g","3,40g",Plat
+163,Winter Fries,299 kcal,"18,00g","2,400g","29,00g",-,"3,7g","2,40g","0,00g",Accompagnement
+164,Royal Crispy Bacon,562 kcal,"34,00g","13,000g","32,00g","6,90g","1,9g","31,00g",-,Plat
+165,Sundae Vanille,191 kcal,"7,40g","3,100g","25,00g","22,00g","0,6g","5,70g","0,10g",Dessert
+166,Sauce Vinaigrette Allégée en Matière Grasse,65 kcal,"6,30g","0,700g","1,80g","1,10g","0,1g","0,10g","1,75g",Sauce
+167,Italian Mozza,171 kcal,"7,50g","3,300g","20,10g","2,90g","1,1g","6,20g","3,00g",Plat
+168,Cookie Fourré Framboise,308 kcal,"10,00g","3,000g","50,00g","29,00g","1,0g","4,00g","1,75g",Dessert
+169,Sauce Ranch Légère,260 kcal,"24,70g","2,000g","6,80g","5,60g","0,0g","1,50g","2,45g",Sauce
+170,Mon Jus de Pomme Bio,47 kcal,"0,00g","0,000g","12,00g","12,00g","0,0g","0,00g","0,00g",Dessert
+171,Veggie Avocado,509 kcal,"23,00g","8,000g","55,00g","7,50g","6,8g","17,00g","2,90g",Plat
+172,McFlurry Saveur Chocolat Oreo,318 kcal,"8,00g","5,000g","53,00g","45,00g","3,0g","7,00g","2,25g",Dessert
+173,Royal-O-Fish,340 kcal,"13,00g","2,000g","41,00g","6,00g","3,0g","15,00g",-,Plat
+174,Salade Pâtes Mozzarella ,157 kcal,"5,40g","2,400g","18,70g","2,40g","1,6g","7,70g","0,00g",Plat
+175,Triple Cheese,265 kcal,"15,00g","8,100g","14,00g","4,00g","0,9g","17,00g","0,00g",Plat
+176,Salade Chicken Thaï,286 kcal,"10,00g","1,300g","27,00g","5,60g","7,4g","18,00g","3,25g",Plat
+177,Nouvelle Salade Cesar,95 kcal,"5,00g","2,800g","1,40g","0,40g","1,2g","11,70g","1,92g",Plat
+178,Frappé Saveur Chocolat ,190 kcal,"4,00g","3,000g","33,00g","27,00g","1,0g","5,00g","0,75g",Dessert
+179,Sauce Allégée,65 kcal,"6,00g",-,"2,00g",-,,"0,00g","1,50g",Sauce
+180,Grand Big Mac Chicken,791 kcal,"31,00g","8,000g","86,00g","13,00g","4,0g","40,00g","11,00g",Plat
+181,McChoconuts,425 kcal,"17,00g","11,000g","56,00g","27,00g","8,0g","10,00g","0,70g",Dessert
+182,Salade Manhattan ,296 kcal,"14,00g","1,000g","22,00g","6,00g","3,0g","19,00g","1,75g",Plat
+183,McFlurry Speculoos,268 kcal,"8,00g","5,000g","43,00g","35,00g","0,0g","6,00g","0,00g",Dessert
+184,La P'tite Pomme,42 kcal,"0,10g","0,000g","11,00g","9,00g","1,6g","0,20g","0,25g",Dessert
+185,Croissant ,205 kcal,"10,00g","6,400g","24,00g","3,50g","0,4g","3,90g","0,50g",Dessert
+186,Cookie Stick Aux Noisettes,255 kcal,"13,00g",-,"30,00g",-,,"3,00g",-,Dessert
+187,Frappée Framboise,210 kcal,"4,00g","3,000g","38,00g","35,00g","1,0g","5,00g","0,25g",Dessert
+188,Cake Citron Pavot,342 kcal,"22,00g","3,000g","31,00g","19,00g","0,0g","5,00g","0,00g",Dessert
+189,McWrap Chicken & Spicy Thaï ,459 kcal,"13,00g","2,000g","65,00g","10,00g","3,0g","19,00g","0,00g",Plat
+190,Salade Chicken Coleslaw ,97 kcal,"5,30g","2,000g","4,60g","4,30g",,"6,70g",-,Plat
+191,Pain au Chocolat,242 kcal,"12,00g","7,400g","29,00g","8,60g","1,1g","4,20g","1,25g",Dessert
+192,Wrap Crevettes ,466 kcal,"22,00g","7,000g","52,00g","5,00g","4,0g","13,00g","6,75g",Plat
+193,Ketchup,121 kcal,"0,10g","0,000g","27,80g","21,20g",,"1,30g","2,20g",Sauce
+194,Le Chicken Mythic Original,660 kcal,"37,00g",-,"53,00g",-,"4,0g","27,00g","0,01g",Plat
+195,Mega Mac,693 kcal,"39,00g","15,000g","42,00g","5,00g","3,0g","42,00g","3,00g",Plat
+196,Cake au Chocolat,365 kcal,"21,00g","11,000g","39,00g","39,00g","0,0g","5,00g","0,00g",Dessert
+197,Mac Junior,408 kcal,"20,00g","8,000g","35,00g","7,00g","2,0g","21,00g","0,00g",Plat
+198,Muffin Saveur Chocolat Noisette,595 kcal,"33,00g","5,700g","64,00g","42,00g","3,8g","8,10g","1,10g",Dessert
+199,Frites de Légumes,313 kcal,"22,00g","1,800g","22,00g","10,00g","9,5g","2,50g","1,30g",Accompagnement
+200,Salade Farmer,415 kcal,"24,00g",-,"22,00g",-,"5,0g","28,00g",-,Plat
+201,P'tite Nectarine,26 kcal,"0,00g","0,000g","5,00g","5,00g","1,0g","1,00g","0,00g",Dessert
+202,Burger Fromage Pané,601 kcal,"29,00g","11,000g","64,00g","11,00g","4,0g","19,00g","7,00g",Plat
+203,P'tit Focaccia,330 kcal,"16,00g","6,000g","29,00g","5,00g","1,0g","17,00g","0,00g",Plat
+204,Chicken Avocado Bacon ,720 kcal,"37,00g","10,000g","63,00g","6,80g","3,5g","32,00g","3,90g",Plat
+205,Bagel Cheese,592 kcal,"32,00g",-,"40,00g",-,,"35,00g",-,Plat
+206,Choco Glacé,390 kcal,"23,00g",-,"39,00g",-,,"7,00g",-,Dessert
+207,Salade Crispy Mozza Pasta  (300g),665 kcal,"31,00g","6,000g","76,00g","9,00g","3,0g","19,00g","0,01g",Plat
+208,Spicy Ranch Burger,975 kcal,"57,00g","24,000g","53,00g","9,00g","3,0g","61,00g","0,01g",Plat
+209,280 Bacon,817 kcal,"45,00g","20,000g","54,00g","4,00g","4,0g","47,00g","9,50g",Plat
+210,Recette au Comté AOP,630 kcal,"33,00g",-,"46,00g",-,,"36,00g","4,00g",Plat
+211,Royal BBQ,562 kcal,"34,00g",-,"35,00g",-,,"28,00g","0,00g",Plat
+212,Salade Pomme de Terre Poulet Oignons,75 kcal,"1,00g","0,000g","10,00g","1,00g","2,0g","4,00g","0,00g",Plat
+213,Sauce Aigre Douce,137 kcal,"0,10g","0,100g","32,00g","30,00g",,"0,60g","3,25g",Sauce
+214,Double Chicken BBQ,636 kcal,"22,00g","9,000g","52,00g","13,00g","5,0g","55,00g","9,50g",Plat
+215,Signature Triple Cheddar ,1336 kcal,"84,00g","43,000g","55,00g","15,00g","4,0g","88,00g","5,30g",Plat
+216,McFlurry Granola,275 kcal,"9,00g","6,000g","43,00g","36,00g","0,0g","6,00g","0,00g",Dessert
+217,Le M,737 kcal,"39,00g","18,000g","49,00g","2,20g","2,9g","46,00g","0,01g",Plat
+218,Mandise,350 kcal,"19,00g",-,"41,00g",-,,"5,00g",-,Dessert
+219,McWrap Poulet Poivre,646 kcal,"34,00g","8,000g","54,00g","5,00g","4,0g","29,00g","6,25g",Plat
+220,P’tit Wrap Crispy Mozza,312 kcal,"14,00g",-,"38,00g","3,00g","1,0g","8,00g",-,Plat
+221,P'tit Melon,28 kcal,"0,00g","0,000g","6,00g","6,00g","1,0g","1,00g","0,00g",Dessert
+222,Bagel Bacon,572 kcal,"30,00g",-,"41,00g",-,,"34,00g","3,50g",Plat
+223,Brownie Stick Caramel & Biscuit,285 kcal,"15,00g",-,"33,00g",-,,"4,00g","0,50g",Dessert
+224,Petit Charolais,325 kcal,"15,00g",-,"31,00g",-,,"17,00g",-,Plat
+225,Burger Fromage Fondu Pané,550 kcal,"26,00g","7,000g","57,00g","12,00g","4,0g","20,00g","2,31g",Plat
+226,Double Shiny Bacon,803 kcal,"45,00g",-,"52,00g",-,,"47,00g","0,01g",Plat
+227,Very Parfait Caramel,486 kcal,"13,00g","10,000g","86,00g","66,00g","0,0g","6,00g","1,00g",Dessert
+228,P’Tit Fish & Chips,354 kcal,"14,00g","1,400g","42,00g","0,70g","3,8g","13,00g","0,90g",Plat
+229,Sauce Chèvre Fondu,328 kcal,"29,00g","3,100g","15,00g","4,30g","0,2g","1,30g","1,90g",Sauce
+230,Crumble Pomme Fruits Rouges,220 kcal,"9,00g",-,"33,00g",-,"5,0g","2,00g","0,00g",Dessert
+231,McFlurry Amandes & Nuts,365 kcal,"18,00g",-,"39,00g",-,,"10,00g","0,00g",Dessert
+232,Salade Fromagère ,372 kcal,"28,00g","11,000g","4,00g","1,00g","0,0g","26,00g","2,50g",Plat
+233,Cône à la Fraise ,144 kcal,"2,00g","1,000g","29,00g","19,00g","1,0g","2,00g","0,25g",Dessert
+234,Boeuf Ranch Moutarde,442 kcal,"24,00g","9,500g","32,00g","6,20g","2,7g","25,00g","4,00g",Plat
+235,Salade Manhattan Poulet Mariné et Frit,337 kcal,"15,00g","2,000g","27,00g","18,00g","5,0g","21,00g","0,00g",Plat
+236,McWrap Bœuf Deluxe ,464 kcal,"26,00g","10,000g","37,00g","3,90g","2,6g","19,00g","0,01g",Plat
+237,Chicken Avocado,238 kcal,"12,00g","3,100g","22,00g","2,40g","1,2g","10,00g","1,30g",Plat
+238,Fish Wasabi,346 kcal,"14,00g","2,800g","40,00g","6,30g","2,0g","14,00g","1,50g",Plat
+239,Chicken Mythic Sauce Tex Mex,624 kcal,"30,00g",-,"59,00g",-,,"27,00g",-,Plat
+240,Ice Squeeze,111 kcal,"3,00g","2,000g","18,00g","17,00g","0,0g","3,00g","0,00g",Dessert
+241,Very Parfait Nature,228 kcal,"11,00g","8,000g","28,00g","26,00g","0,0g","4,00g","0,50g",Dessert
+242,Chicken Bacon & BBQ,652 kcal,"30,00g","9,000g","65,00g","7,00g","3,0g","29,00g","16,00g",Plat
+243,Tartelette Gourmande aux Pommes,305 kcal,"13,00g",-,"40,00g",-,,"6,00g","0,00g",Dessert
+244,Sauce Vinaigrette à L’Huile D’Olive et au Vinaigre Balsamique,559 kcal,"59,00g","8,600g","5,90g","5,10g",,"0,20g","2,75g",Sauce
+245,Double Cheddar & Beef,899 kcal,"51,00g","26,000g","54,00g","15,00g","4,0g","54,00g","4,00g",Plat
+246,Frappé Saveur Coco,159 kcal,"3,00g","3,000g","32,00g","27,00g","0,0g","5,00g","0,25g",Dessert
+247,Casse Croûte Poulet Crudités,635 kcal,"30,00g","4,000g","68,00g","4,00g","5,0g","21,00g","7,50g",Plat
+248,Very Parfait,509 kcal,"21,00g","16,000g","71,00g","65,00g","2,0g","8,00g","1,50g",Dessert
+249,Le Grand Veggie,763 kcal,"33,00g","7,000g","88,00g","16,00g","11,0g","23,00g","10,75g",Plat
+250,McWrap Veggie,266 kcal,"15,00g","3,500g","27,00g","4,00g","0,9g","6,10g","0,00g",Plat
+251,BBO,739 kcal,"45,00g","16,000g","42,00g","6,50g","3,1g","40,00g","2,20g",Plat
+252,Crousties,257 kcal,"15,00g","1,700g","27,00g","0,20g",,"2,50g","0,90g",Accompagnement
+253,P'tit Chicken & Fries,425 kcal,"18,00g","2,000g","47,00g","4,00g",,"17,00g","1,30g",Plat
+254,Le 280 Moutarde,806 kcal,"44,00g",-,"57,00g",-,,"44,00g",-,Plat
+255,McBaguette,698 kcal,"34,00g","12,000g","62,00g","3,10g","4,0g","34,00g","2,90g",Plat
+256,Petit Hot Dog,287 kcal,"15,00g","5,000g","26,00g","8,00g","2,0g","11,00g","0,00g",Plat
+257,Poulet Ranch Ketchup,442 kcal,"19,00g","5,400g","45,00g","9,70g","3,5g","21,00g","7,00g",Plat
+258,Salade Chicken Thaï,112 kcal,"4,00g","0,500g","10,70g","8,20g","2,9g","6,90g","0,00g",Plat
+259,Grand Double Cheese Oignons,691 kcal,"35,00g","18,000g","51,00g","12,00g","3,5g","41,00g","8,50g",Plat
+260,280 Sauce Fromagère,826 kcal,"46,00g",-,"56,00g",-,,"45,00g","0,01g",Plat
+261,Le P'tit Fondu,353 kcal,"16,00g","6,500g","33,00g","6,30g","1,5g","17,00g","1,50g",Plat
+262,McWrap Veggie,610 kcal,"34,00g","8,000g","61,00g","9,00g","2,0g","14,00g","5,50g",Plat
+263,Cheddar & Smoky Bacon,960 kcal,"56,00g","27,000g","54,00g","15,00g","4,0g","58,00g","4,20g",Plat
+264,Salade Poulet Moutarde ,456 kcal,"20,00g",-,"45,00g","13,00g","6,0g","21,00g",-,Plat
+265,Marshmallow Bar Choco & Biscuit,272 kcal,"14,00g","8,900g","32,00g","25,00g","1,2g","2,80g","0,00g",Dessert
+266,Grand Premium,905 kcal,"53,00g","20,000g","56,00g","12,00g","4,0g","49,00g","6,50g",Plat
+267,Frappé Pistache,185 kcal,"5,00g",-,"35,00g",-,,"3,00g",-,Dessert
+268,Mcwrap Chicken Maredsous Veggie ,526 kcal,"24,00g","7,300g","51,00g","5,90g","6,7g","22,00g","8,00g",Plat
+269,Recette Raclette,630 kcal,"33,00g",-,"46,00g",-,,"36,00g","5,00g",Plat
+270,Bagel Red Onion,553 kcal,"29,00g","29,000g","40,00g",-,,"32,00g","0,00g",Plat
+271,Casse Croute Poulet Curry,771 kcal,"33,00g",-,"87,00g",-,,"26,00g","9,50g",Plat
+272,280 Recette au Chèvre ,720 kcal,"38,00g","16,000g","52,00g","3,00g","3,0g","41,00g","6,00g",Plat
+273,American Winter Bacon & Cheddar Fondu,641 kcal,"37,00g","15,000g","44,00g","10,00g","2,0g","32,00g","0,01g",Plat
+274,Le Bœuf Ranch Moutarde,442 kcal,"24,00g","9,500g","32,00g","6,20g","2,7g","25,00g",-,Plat
+275,Sauce au Tabasco Rouge,71 kcal,"5,30g","0,400g","5,00g","3,20g","0,4g","0,40g",-,Sauce
+276,Classic Tendres Chips,187 kcal,"9,00g","6,000g","23,00g","0,00g","3,0g","2,00g",-,Accompagnement
+277,Grand Chicago Classic,696 kcal,"36,00g",-,"52,00g",-,,"39,00g","7,50g",Plat
+278,Le P’tit Focaccia,330 kcal,"16,00g","6,000g","29,00g","5,00g","1,0g","17,00g","0,00g",Plat
+279,Le Chicken Mythic Bacon,685 kcal,"39,00g",-,"53,00g",-,,"29,00g",-,Plat
+280,Le Charolais,325 kcal,"15,00g",-,"31,00g",-,,"17,00g","3,00g",Plat
+281,McWrap Boeuf & Poivre,585 kcal,"36,00g",-,"36,00g",-,,"29,00g",-,Plat
+282,Sauce Bleu Fondu,103 kcal,"10,00g","0,900g","1,40g","0,40g","0,0g","0,80g","1,25g",Sauce
+283,Salade New York Caesar Poulet Rôti,240 kcal,"12,00g","8,000g","10,00g","1,00g","1,0g","23,00g","2,50g",Plat
+284,Grand Premium Poulet,725 kcal,"37,00g","10,000g","56,00g","13,00g","4,0g","40,00g","8,50g",Plat
+285,Banania Chaud,210 kcal,"8,00g",-,"27,00g",-,,"8,00g","0,00g",Dessert
+286,Le M Bacon,630 kcal,"34,00g","13,000g","42,00g","3,00g","3,0g","38,00g","7,25g",Plat
+287,Casse Croûte Jambon Fromage ,642 kcal,"26,00g",-,"70,00g",-,,"27,00g","0,01g",Plat
+288,California & Chicken,656 kcal,"36,00g",-,"57,00g",-,"3,0g","24,00g","7,50g",Plat
+289,P'tit Italien,292 kcal,"12,00g","6,000g","29,00g","5,00g","2,0g","16,00g",-,Plat
+290,Chicken Sticks (8),864 kcal,"38,00g","4,000g","74,00g","0,00g","1,0g","56,00g","9,25g",Plat
+291,Salade Exotic Chicken & Blé Tandoori,370 kcal,"14,00g","2,000g","28,00g","9,00g","6,0g","30,00g","0,00g",Plat
+292,McWrap Veggie & California,610 kcal,"34,00g","8,000g","61,00g","9,00g","2,0g","14,00g","5,50g",Plat
+293,McWrap Chicken Tortilla Chips & Mexico,626 kcal,"28,00g","8,000g","66,00g","5,00g","3,0g","26,00g","7,00g",Plat
+294,Triple Cheddar Double Beef,1336 kcal,"84,00g","43,000g","55,00g","15,00g","4,0g","88,00g","5,30g",Plat
+295,Mcrib,470 kcal,"22,00g","8,500g","42,00g","11,00g","1,9g","24,00g","2,90g",Plat
+296,Grand Latte,108 kcal,"4,00g","2,000g","11,00g","11,00g",,"7,00g","0,30g",Dessert
+297,Le Mixte,565 kcal,"19,00g",-,"68,00g",-,,"26,00g","8,25g",Plat
+298,Red Chili Chicken,495 kcal,"26,00g",-,"35,00g",-,,"29,00g","5,50g",Plat
+299,Petit McBaguette,318 kcal,"14,00g",-,"30,00g",-,,"17,00g","2,50g",Plat
+300,Sauce Farmer,75 kcal,"5,00g","0,000g","7,00g","6,00g",,"0,00g",-,Sauce
+301,Summer Salade,228 kcal,"4,00g","1,000g","27,00g","3,00g","6,0g","18,00g","0,00g",Accompagnement
+302,McWrap Fromage Pané,563 kcal,"27,00g",-,"61,00g",-,"4,0g","17,00g","0,01g",Plat
+303,P'tite Mangue,29 kcal,"0,10g","0,000g","6,10g","5,90g","0,8g","0,30g","0,00g",Dessert
+304,Grand Premium Sauce Chargrill,907 kcal,"55,00g","26,000g","54,00g","15,00g","4,0g","47,00g","7,50g",Plat
+305,Le P'tit Campagne,348 kcal,"16,00g","7,000g","32,00g","2,00g","2,0g","18,00g",-,Plat
+306,Grand Chicago Bold BBQ,660 kcal,"32,00g","15,000g","53,00g","12,00g","3,8g","39,00g","0,01g",Plat
+307,P'tit Tex Mex,285 kcal,"13,00g","4,000g","32,00g","4,00g","2,0g","9,00g","3,00g",Plat
+308,280 Recette Fromagère,826 kcal,"46,00g","10,000g","56,00g","56,00g","0,0g","45,00g","8,75g",Plat
+309,Muffin Pêche Abricot ,336 kcal,"18,00g","3,000g","38,00g","23,00g","1,0g","5,00g","0,00g",Dessert
+310,Sauce Manhattan ,323 kcal,"28,00g","3,100g","15,00g","3,50g","0,0g","1,20g","4,50g",Plat
+311,McWrap Crispy Mozza & Italia,537 kcal,"25,00g","7,000g","62,00g","5,00g","2,0g","15,00g","3,25g",Plat
+312,McWrap Indian Veggie,443 kcal,"19,00g","4,000g","54,00g","5,00g","6,0g","11,00g","6,25g",Plat
+313,Double Cheddar & Smoky Bacon,1270 kcal,"78,00g","38,000g","55,00g","15,00g","4,0g","85,00g","12,25g",Plat
+314,Frappé Myrtille,181 kcal,"5,00g","4,000g","33,00g","30,00g",,"4,00g","0,00g",Dessert
+315,Mocha,49 kcal,"1,00g","0,600g","7,00g","6,00g","0,0g","2,50g","0,06g",Dessert
+316,Sauce Tandoori ,228 kcal,"24,00g","2,000g","3,00g","2,00g","0,0g","0,00g","0,00g",Sauce
+317,McWrap Tokyo & Chicken Wasabi,501 kcal,"20,00g","2,700g","59,00g","5,90g","2,5g","20,00g","2,30g",Plat
+318,Mcrancher,441 kcal,"21,00g","9,500g","36,00g","9,70g","2,2g","26,00g","5,30g",Plat
